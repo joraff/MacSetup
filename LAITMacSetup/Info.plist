@@ -28,5 +28,10 @@
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
+	<key>SMPrivilegedExecutables</key>
+	<dict>
+		<key>edu.tamu.liberalarts.LAITMacSetupHelper</key>
+		<string>identifier "edu.tamu.liberalarts.LAITMacSetupHelper" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: joraff@mac.com (2Q4Z7V7TJV)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+	</dict>
 </dict>
 </plist>
